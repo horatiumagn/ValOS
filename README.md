@@ -1,4 +1,11 @@
-# ValOs: The DaVinci of Decentralized Finance 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.11-blue.svg?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3110/)
+[![AI Agent](https://img.shields.io/badge/Category-AI%20Agent-orange.svg)](https://github.com/horatiumagn/ValOS)
+[![Memecoin Alpha](https://img.shields.io/badge/Focus-Memecoin%20Alpha-red.svg)](https://github.com/horatiumagn/ValOS)
+[![DaVinci-level Precision](https://img.shields.io/badge/Quality-DaVinci--level%20Precision-purple.svg)](https://github.com/horatiumagn/ValOS)
+[![Effortless Setup](https://img.shields.io/badge/Experience-Effortless%20Setup-green.svg)](https://github.com/horatiumagn/ValOS)
+
+# ValOs: The DaVinci of Decentralized Finance - Flawless AI Agents for Memecoin Mastery
 
 ## Unveiling ValOs: Precision, Simplicity, and Unseen Power
 
